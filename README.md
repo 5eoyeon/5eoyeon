@@ -1,6 +1,6 @@
 ## 장서연 Seoyeon Jang
 - undergraduate student ([HYU CSE](http://cs.hanyang.ac.kr/) 2021~)
-- interested in **FW**, **System SW**
+- interested in **System SW**, **FW/algorithm based on HW architecture**,
 - ✉ <jjseoyeon922@gmail.com>
 
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
