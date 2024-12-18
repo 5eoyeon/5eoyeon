@@ -8,7 +8,7 @@
     - Modern Programming Languages: Rust
 - **experiences**
     - [CELLICO](https://www.cellico.com/) | System R&D | F/W Dev - Intern (2024.07 - 2024.08)
-    - [Samsung Electronics](https://semiconductor.samsung.com/about-us/business-area/memory/) | Memory | S/W Dev - Intern (2024.09 - current)
+    - [Samsung Electronics](https://semiconductor.samsung.com/about-us/business-area/memory/) | Memory | S/W Dev - Intern (2024.09 - 2024.12)
 - **stack**  
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
