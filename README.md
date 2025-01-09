@@ -1,9 +1,9 @@
 ## 장서연 Seoyeon Jang
-- [HYU CS](http://cs.hanyang.ac.kr/) | undergraduate student (2021.03 - 2025.02)
+- [HYU CS](http://cs.hanyang.ac.kr/) | B.S. in Computer Science (2021.03 - 2025.02)
 - **interested in**
     - System SW
-    - FW/algorithm based on HW architecture
-    - NAND Flash Memory: FTL
+    - robust and secure SW based on HW architecture
+    - NAND Flash Memory
     - AI Semiconductor
     - Modern Programming Languages: Rust
 - **experiences**
